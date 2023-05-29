@@ -11,7 +11,7 @@ Resolução de questões sobre algoritmos ambiciosos
 | 18/0078640	 |  Yuri Alves Bacarias|
 
 ## Sobre 
-Questões sobre Algorítimos Ambiciosos retiradas do Beecrowd resolvidos em juízes online.
+Questões sobre Algorítimos Ambiciosos retiradas do Beecrowd .
 
 ## Screenshots das resoluções
 
