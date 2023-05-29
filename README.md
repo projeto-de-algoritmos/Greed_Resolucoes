@@ -17,7 +17,7 @@ Questões sobre Algorítimos Ambiciosos retiradas do Beecrowd resolvidos em juí
 
 
 ## Linguagem utilizada
-** Python**
+C++
 
 ## Questão 1
 Motoboy
