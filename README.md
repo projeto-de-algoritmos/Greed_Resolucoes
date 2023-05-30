@@ -17,6 +17,7 @@ Questões sobre Algorítimos Ambiciosos retiradas do Beecrowd e CodeForces .
 ## Screenshots das resoluções
 <img width="934" alt="Captura de Tela 2023-05-30 às 10 06 41" src="https://github.com/projeto-de-algoritmos/Greed_Resolucoes/assets/60350851/c9c44a15-0798-45cc-9cf3-1cfe5e2b47a5">
 
+![Screenshot from 2023-05-30 14-02-06](https://github.com/projeto-de-algoritmos/Greed_Resolucoes/assets/48924092/2d562802-7921-47f4-9868-9d72ea5cf9d7)
 
 ## Linguagens utilizadas
 C++ e Python
@@ -78,7 +79,11 @@ A primeira linha de entrada contém o número de casos de teste. Cada caso de te
 ### Saída
 Se o dano total das cargas carregadas for maior ou igual à resistência do castelo então deverá ser impressa a mensagem “Missao completada com sucesso”, caso contrário, deverá ser impressa a mensagem “Falha na missao”.
 
+![Screenshot from 2023-05-30 13-57-51](https://github.com/projeto-de-algoritmos/Greed_Resolucoes/assets/48924092/41ec03db-af01-422a-aef7-6d695345a81a)
+
 #
 
 ## Questão 4 (codeforces)
 
+![Screenshot from 2023-05-30 13-56-32](https://github.com/projeto-de-algoritmos/Greed_Resolucoes/assets/48924092/43afbc6f-dea3-402a-a5c0-00eb62b160fa)
+![Screenshot from 2023-05-30 13-57-01](https://github.com/projeto-de-algoritmos/Greed_Resolucoes/assets/48924092/ca4b0b74-d71f-4d21-9207-ada9774a6f3d)
