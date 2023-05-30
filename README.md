@@ -10,10 +10,12 @@ Resolução de questões sobre algoritmos ambiciosos
 | 18/0103792 |  Júlia Farias Sousa|
 | 18/0078640	 |  Yuri Alves Bacarias|
 
+
 ## Sobre 
 Questões sobre Algorítimos Ambiciosos retiradas do Beecrowd .
 
 ## Screenshots das resoluções
+<img width="934" alt="Captura de Tela 2023-05-30 às 10 06 41" src="https://github.com/projeto-de-algoritmos/Greed_Resolucoes/assets/60350851/c9c44a15-0798-45cc-9cf3-1cfe5e2b47a5">
 
 
 ## Linguagens utilizadas
@@ -35,7 +37,11 @@ Entrada
 A entrada contém vários casos de teste. Cada caso de teste contém na primeira linha um valor inteiro N (1 ≤ N ≤ 20) que indica o número de pedidos. A linha seguinte contém um valor inteiro P (1 ≤ P ≤ 30) indicando o número máximo de pizzas que podem ser entregues por Roberto. Cada uma das próximas N linhas contém um pedido com o tempo total para ser entregue e a quantidade de pizzas do pedido, respectivamente. A final da entrada é determinado por N = 0, e não deverá ser processado.
 
 Saída
-Para cada caso de teste de entrada deve ser impresso um valor inteiro que determina o tempo que Roberto irá levar para entregar as suas pizzas seguido de um espaço em branco e do texto “min.”, conforme exemplo abaixo.
+Para cada caso de teste de entrada deve ser impresso um valor inteiro que determina o tempo que Roberto irá levar para entregar as suas pizzas seguido de um espaço em branco e do texto “min.”
+<img width="716" alt="Captura de Tela 2023-05-30 às 10 01 08" src="https://github.com/projeto-de-algoritmos/Greed_Resolucoes/assets/60350851/d7543754-642a-40c8-86db-ab1ea7bd6c8a">
+
+
+
 ## Questão 2
 
 Festival de Estátuas de Gelo
@@ -53,5 +59,6 @@ A entrada é composta por diversas instâncias. A primeira linha da entrada cont
 
 Saída
 Para cada instância, imprima o número mínimo de blocos necessários para obter um bloco de comprimento M.
+<img width="725" alt="Captura de Tela 2023-05-30 às 10 03 47" src="https://github.com/projeto-de-algoritmos/Greed_Resolucoes/assets/60350851/f7febcc2-a4fc-4ee4-8dcf-5e12d151b328">
 
 
